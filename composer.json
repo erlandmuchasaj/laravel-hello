@@ -1,0 +1,20 @@
+{
+    "name": "erlandmuchasaj/laravel-hello",
+    "description": "A simple Laravel package saying hello to the world.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erland Muchasaj",
+            "email": "erland.muchaasaj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ErlandMuchasaj\\LaravelHello\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "require": {}
+}
